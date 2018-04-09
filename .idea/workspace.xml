@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b78d5ce9-8c44-4bd5-a05c-ebcd206ae8e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/actions/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Balance/Balance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Balance/Balance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Trader/Trader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Trader/Trader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/btcBalanceReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/btcUsdPriceReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/initialState.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/purchaseAmountReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/quoteReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/rootReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/usdBalanceReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,21 +41,57 @@
         <entry file="file://$PROJECT_DIR$/src/components/Trader/Trader.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="50" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1523244734584" expanded="true" signature="7:49" ph="..." />
+                <marker date="1523244734584" expanded="true" signature="130:799" ph="&lt;div/&gt;" />
+                <marker date="1523244734584" expanded="true" signature="284:472" ph="&lt;input/&gt;" />
+                <marker date="1523244734584" expanded="true" signature="594:723" ph="&lt;input/&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="btcBalanceReducer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/btcBalanceReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1523243746124" expanded="true" signature="7:100" ph="..." />
+                <marker date="1523243746124" expanded="true" signature="171:291" ph="{...}" />
+                <marker date="1523243746124" expanded="true" signature="196:289" ph="{...}" />
+                <marker date="1523243746124" expanded="true" signature="223:252" ph="..." />
+                <marker date="1523243746124" expanded="true" signature="265:285" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="btcUsdPriceReducer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/btcUsdPriceReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <marker date="1523214713240" expanded="false" signature="7:104" ph="..." />
+                <marker date="1523214713240" expanded="true" signature="184:306" ph="{...}" />
+                <marker date="1523214713240" expanded="true" signature="209:304" ph="{...}" />
+                <marker date="1523214713240" expanded="true" signature="240:267" ph="..." />
+                <marker date="1523214713240" expanded="true" signature="280:300" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App/App.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1523207529940" expanded="true" signature="7:85" ph="..." />
+                <marker date="1523207529940" expanded="true" signature="124:245" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,9 +100,77 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="-76">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <marker date="1523245062452" expanded="false" signature="7:229" ph="..." />
+                <marker date="1523245062452" expanded="true" signature="259:1768" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="283:317" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="369:774" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="652:678" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="794:1263" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="1062:1109" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="1277:1766" ph="{...}" />
+                <marker date="1523245062452" expanded="true" signature="1373:1755" ph="&lt;div/&gt;" />
+                <marker date="1523245062452" expanded="true" signature="1570:1742" ph="&lt;Trader/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registerServiceWorker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1523207529941" expanded="true" signature="82:371" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="373:523" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="885:2198" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="964:2196" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="1164:1436" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="1172:1416" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="1480:2190" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="1573:2078" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="1717:1833" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="1883:2068" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2084:2184" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2232:3344" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2307:3238" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2350:3231" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2457:3222" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2513:3212" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2567:2936" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2583:2850" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="2942:3200" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="2958:3121" ph="//..." />
+                <marker date="1523207529941" expanded="true" signature="3260:3340" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3386:4209" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3501:4079" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3712:3974" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3852:3964" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3901:3952" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="3980:4073" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="4098:4205" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="4240:4383" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="4278:4381" ph="{...}" />
+                <marker date="1523207529941" expanded="true" signature="4335:4375" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -120,8 +212,9 @@
         <option value="$PROJECT_DIR$/src/reducers/quoteReducer.js" />
         <option value="$PROJECT_DIR$/src/reducers/usdBalanceReducer.js" />
         <option value="$PROJECT_DIR$/src/components/Input.js" />
-        <option value="$PROJECT_DIR$/src/components/App/App.js" />
         <option value="$PROJECT_DIR$/src/components/Trader/Trader.js" />
+        <option value="$PROJECT_DIR$/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -419,25 +512,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523207846150</updated>
-      <workItem from="1523207847797" duration="23953000" />
+      <workItem from="1523207847797" duration="25842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23953000" />
+    <option name="totallyTimeSpent" value="25842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25125" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25125" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -496,9 +588,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#51#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -562,9 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -616,31 +704,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/btcUsdPriceReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/btcBalanceReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
           <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -648,9 +716,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -658,37 +724,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Trader/Trader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1523207529940" expanded="true" signature="7:85" ph="..." />
+            <marker date="1523207529940" expanded="true" signature="124:245" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/btcBalanceReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1523243746124" expanded="true" signature="7:100" ph="..." />
+            <marker date="1523243746124" expanded="true" signature="171:291" ph="{...}" />
+            <marker date="1523243746124" expanded="true" signature="196:289" ph="{...}" />
+            <marker date="1523243746124" expanded="true" signature="223:252" ph="..." />
+            <marker date="1523243746124" expanded="true" signature="265:285" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/btcUsdPriceReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1523214713240" expanded="false" signature="7:104" ph="..." />
+            <marker date="1523214713240" expanded="true" signature="184:306" ph="{...}" />
+            <marker date="1523214713240" expanded="true" signature="209:304" ph="{...}" />
+            <marker date="1523214713240" expanded="true" signature="240:267" ph="..." />
+            <marker date="1523214713240" expanded="true" signature="280:300" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523207529941" expanded="true" signature="82:371" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="373:523" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="885:2198" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="964:2196" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="1164:1436" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="1172:1416" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="1480:2190" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="1573:2078" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="1717:1833" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="1883:2068" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2084:2184" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2232:3344" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2307:3238" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2350:3231" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2457:3222" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2513:3212" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2567:2936" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2583:2850" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="2942:3200" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="2958:3121" ph="//..." />
+            <marker date="1523207529941" expanded="true" signature="3260:3340" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3386:4209" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3501:4079" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3712:3974" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3852:3964" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3901:3952" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="3980:4073" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="4098:4205" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="4240:4383" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="4278:4381" ph="{...}" />
+            <marker date="1523207529941" expanded="true" signature="4335:4375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Trader/Trader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <marker date="1523244734584" expanded="true" signature="7:49" ph="..." />
+            <marker date="1523244734584" expanded="true" signature="130:799" ph="&lt;div/&gt;" />
+            <marker date="1523244734584" expanded="true" signature="284:472" ph="&lt;input/&gt;" />
+            <marker date="1523244734584" expanded="true" signature="594:723" ph="&lt;input/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1523245062452" expanded="false" signature="7:229" ph="..." />
+            <marker date="1523245062452" expanded="true" signature="259:1768" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="283:317" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="369:774" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="652:678" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="794:1263" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="1062:1109" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="1277:1766" ph="{...}" />
+            <marker date="1523245062452" expanded="true" signature="1373:1755" ph="&lt;div/&gt;" />
+            <marker date="1523245062452" expanded="true" signature="1570:1742" ph="&lt;Trader/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
